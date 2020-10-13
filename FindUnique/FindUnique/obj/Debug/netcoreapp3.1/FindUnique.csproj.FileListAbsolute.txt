@@ -1,0 +1,13 @@
+C:\Users\Peter\source\repos\FindUnique\FindUnique\bin\Debug\netcoreapp3.1\FindUnique.exe
+C:\Users\Peter\source\repos\FindUnique\FindUnique\bin\Debug\netcoreapp3.1\FindUnique.deps.json
+C:\Users\Peter\source\repos\FindUnique\FindUnique\bin\Debug\netcoreapp3.1\FindUnique.runtimeconfig.json
+C:\Users\Peter\source\repos\FindUnique\FindUnique\bin\Debug\netcoreapp3.1\FindUnique.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\FindUnique\FindUnique\bin\Debug\netcoreapp3.1\FindUnique.dll
+C:\Users\Peter\source\repos\FindUnique\FindUnique\bin\Debug\netcoreapp3.1\FindUnique.pdb
+C:\Users\Peter\source\repos\FindUnique\FindUnique\obj\Debug\netcoreapp3.1\FindUnique.csprojAssemblyReference.cache
+C:\Users\Peter\source\repos\FindUnique\FindUnique\obj\Debug\netcoreapp3.1\FindUnique.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\FindUnique\FindUnique\obj\Debug\netcoreapp3.1\FindUnique.AssemblyInfo.cs
+C:\Users\Peter\source\repos\FindUnique\FindUnique\obj\Debug\netcoreapp3.1\FindUnique.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\FindUnique\FindUnique\obj\Debug\netcoreapp3.1\FindUnique.dll
+C:\Users\Peter\source\repos\FindUnique\FindUnique\obj\Debug\netcoreapp3.1\FindUnique.pdb
+C:\Users\Peter\source\repos\FindUnique\FindUnique\obj\Debug\netcoreapp3.1\FindUnique.genruntimeconfig.cache
